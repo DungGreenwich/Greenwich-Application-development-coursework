@@ -1,0 +1,32 @@
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.exe
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.deps.json
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.runtimeconfig.json
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.pdb
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551_coursework.Form1.resources
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.csproj.GenerateResource.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.GeneratedMSBuildEditorConfig.editorconfig
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.AssemblyInfoInputs.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.AssemblyInfo.cs
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.csproj.CoreCompileInputs.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\refint\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.pdb
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.genruntimeconfig.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\ref\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551_coursework.Form1.resources
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.csproj.GenerateResource.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.GeneratedMSBuildEditorConfig.editorconfig
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.AssemblyInfoInputs.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.AssemblyInfo.cs
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.csproj.CoreCompileInputs.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\refint\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.pdb
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.exe
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.deps.json
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.runtimeconfig.json
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.dll
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\bin\Debug\net8.0-windows\COMP1551 coursework.pdb
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\COMP1551 coursework.genruntimeconfig.cache
+E:\this pc\work\courseworks spring 2025\COMP1551 coursework dl 21.4.2025\COMP1551 coursework\COMP1551 coursework\obj\Debug\net8.0-windows\ref\COMP1551 coursework.dll
